@@ -1,0 +1,20 @@
+# Byte-compiled / optimized files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Python environment
+venv/
+env/
+*.env
+
+# IDE-specific files
+.idea/
+*.iml
+*.iws
+*.ipr
+
+
+activity_db.sqlite
+test_activity_db.sqlite
